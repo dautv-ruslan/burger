@@ -1,0 +1,44 @@
+.main {
+	background: #FFFFFF;
+}
+.main .container h1 {
+	font-family: Nunito Sans;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 120px;
+	line-height: 140px;
+
+	text-transform: uppercase;
+
+	color: #FAF9F9;
+}
+.main .container h1 span {
+	font-family: Nunito Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 38px;
+
+	text-transform: uppercase;
+
+	color: #FBB731;
+}
+.main .container p {
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	line-height: 140%;
+
+	color: #DEDEDE;
+}
+.main .container a {
+	background: #FBB731;
+	border-radius: 5px;
+}
+.main .container .visual {
+	width: 829px;
+	height: 861px;
+	left: 890px;
+	top: 1px;
+}
